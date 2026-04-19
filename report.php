@@ -18,25 +18,19 @@
         <h1>Задание 3. Анкета с сохранением в MySQL</h1>
         <p style="text-align:center; color:#c2185b;">Выполнено: u82353</p>
 
-        <h2>0. Структура проекта</h2>
-        <img src="0.1.png" alt="Структура в VS Code">
-        <img src="0.2.png" alt="GitHub">
+        <h2>1. Главная форма</h2>
+        <img src="0.1.png" alt="Форма">
 
-        <h2>1. Работа с базой данных</h2>
-        <img src="1.1.png" alt="SSH">
-        <img src="1.3.png" alt="MySQL">
-        <img src="1.4.png" alt="Создание таблиц">
-        <img src="4.png" alt="Данные в таблицах">
-
-        <h2>2. HTML-форма</h2>
-        <img src="2.1.png" alt="Форма">
-
-        <h2>3. Тестирование</h2>
-        <img src="2.3.png" alt="Заполненная форма">
-        <img src="2.4.png" alt="Ошибки">
+        <h2>2. Успешная отправка</h2>
         <img src="2.2.png" alt="Успех">
 
-        <p style="text-align:center; margin-top:60px;">
+        <h2>3. Ошибки валидации</h2>
+        <img src="2.4.png" alt="Ошибки">
+
+        <h2>4. Структура проекта</h2>
+        <img src="0.2.png" alt="GitHub">
+
+        <p style="text-align:center; margin-top:50px;">
             <strong>Репозиторий:</strong> 
             <a href="https://github.com/lovelizkw/task3">https://github.com/lovelizkw/task3</a>
         </p>
